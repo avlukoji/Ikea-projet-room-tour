@@ -10,7 +10,7 @@ Il s'agit d'un projet de modélisation 3D et de création d'une page sous React,
 
 Pour découvrir la scène, rien de plus simple : utiliser sa souris ou son pad pour tourner, zoomer ou se déplacer autour de la scène. 
 
-Des fonctionnalités seront peut-être rajouté sur cette page mais en attendant, voici la version 1v :) 
+Des fonctionnalités seront peut-être rajouté sur cette page mais en attendant, voici la version 1 ☺️
 
 Enjoy !
 
