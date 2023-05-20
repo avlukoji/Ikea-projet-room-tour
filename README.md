@@ -1,5 +1,7 @@
 # Ikea-projet-room-tour
 
+![My Image](image2.jpg)
+
 
 ## "Ikea - The room tour" - kézako ? 
 
